@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Static_Exercise
 {
-    internal class TempConverter
+    internal static class TempConverter
     {
         public static double FahrenheitToCelsius(double x)
         {
